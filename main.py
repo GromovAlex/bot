@@ -1,5 +1,5 @@
 from loguru import logger
-from bot import run as run_bot
+from bot.bot import run as run_bot
 
 
 def main():
